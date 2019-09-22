@@ -1,25 +1,72 @@
 <Products>
-    <product>
-         <id> 1 </id>
+    <product id="1">
+      
          <name> John  </name>
-         <Address>  house wsfhbweyfbwef </Address>
+         <Address>
+		 <house> 
+		 328 
+		 </house>
+         <flat>
+         </flat>		 
+		 <road>
+		 #3 
+		 </road> 
+		 <location>
+		 bonani
+		 </location>
+		 <city>	 
+		 Dhaka
+		 </city>
+		 </Address>
          <Department> Sales </Department>
 		 <salary> 200000 </salary>
     
     </product>
 
- <product>
-       <id> 2 </id>
+ <product id="2">
+      
          <name> Mark  </name>
-         <Address>  india </Address>
+          <Address>
+		 <house> 
+		  
+		 </house>
+         <flat>
+		 A/1
+         </flat>		 
+		 <road>
+		 #3 
+		 </road> 
+		 <location>
+		 mirpur
+		 </location>
+		 <city>	 
+		 dhaka
+		 </city>
+		 </Address>
          <Department> Accounts </Department>
 		 <salary> 200000 </salary>
     </product>
 
- <product>
-         <id> 3 </id>
-         <name> ala  </name>
-         <Address>  zim </Address>
+ <product id="3">
+         
+         <name> meaw  </name>
+          <Address>
+		 <house> 
+		  322
+		 </house>
+         <flat>
+		 
+         </flat>		 
+		 <road>
+		 #3 
+		 </road> 
+		 <location>
+		 mirpur
+		 </location>
+		 <city>	 
+		 
+		 </city>
+		 </Address>
          <Department> human resourse </Department>
 		 <salary> 200000 </salary>
     
