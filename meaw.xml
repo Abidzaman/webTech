@@ -1,0 +1,31 @@
+<Products>
+    <product>
+         <id> 1 </id>
+         <name> John  </name>
+         <Address>  house wsfhbweyfbwef </Address>
+         <Department> Sales </Department>
+		 <salary> 200000 </salary>
+    
+    </product>
+
+ <product>
+       <id> 2 </id>
+         <name> Mark  </name>
+         <Address>  india </Address>
+         <Department> Accounts </Department>
+		 <salary> 200000 </salary>
+    </product>
+
+ <product>
+         <id> 3 </id>
+         <name> ala  </name>
+         <Address>  zim </Address>
+         <Department> human resourse </Department>
+		 <salary> 200000 </salary>
+    
+    </product>
+
+
+
+   
+</Products>
